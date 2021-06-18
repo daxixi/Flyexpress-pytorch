@@ -7,7 +7,7 @@ This is the course project in SJTU EI314-1 (上海交通大学工程实践与科
 |    test set    | 0.95561 | 0.62405  | 0.61615 |
 
 More detailed information can refer to the report [Fast regulated network over variable sets of features
-with loss annealing]()
+with loss annealing](https://github.com/daxixi/Flyexpress-pytorch/blob/main/report.pdf)
 
 ## Pretrained Model
 pretrianed model are provided, put them under folder premodel
