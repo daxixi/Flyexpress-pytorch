@@ -1,7 +1,7 @@
 # FlyExpress 
 This is the course project in SJTU EI314-1 (上海交通大学工程实践与科技创新3). In this project, we realize a novel model to achieve good performance over flyexpress dataset
 
-|                | AUC     | Macro F1 |         |
+|                | AUC     | Macro F1 | Sample F1 |
 |----------------|---------|----------|---------|
 | validation set |  0.9590 | 0.6477   | 0.6593  |
 |    test set    | 0.95561 | 0.62405  | 0.61615 |
